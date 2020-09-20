@@ -1,0 +1,9 @@
+name: MultiplyDrops
+version: 1.0
+author: smacca
+main: com.smacca.MultiplyDrops
+api-version: 1.16
+commands:
+  drops:
+    description: Toggle multiplied block dropping
+    usage: /drop
